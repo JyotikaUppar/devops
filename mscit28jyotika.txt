@@ -1,0 +1,7 @@
+hello this is my lecture of devops on June 30 2026 
+the commands are:
+git init
+git status
+git --global user.name ""
+git --global user.email ""
+git add filename
